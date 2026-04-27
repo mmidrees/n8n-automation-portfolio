@@ -23,7 +23,14 @@ Automatically generates 3 daily TikTok posts using Claude AI, fetches relevant i
 - Styled cover image with Bebas Neue font and gold text overlay
 - Fully automated — zero manual effort required
 
+## Project 2 — Freelance Lead Generation Bot
 
+Automatically fetches remote job listings every morning at 8am, filters for AI and automation roles, and sends matching leads directly to Telegram.
+
+**Tools used:** n8n, We Work Remotely RSS, Telegram
+**Trigger:** Daily at 8am
+**Filter keywords:** automation, AI, n8n, workflow, zapier
+**Output:** Telegram message with job title, link and date
 
 
 
